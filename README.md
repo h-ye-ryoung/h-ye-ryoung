@@ -63,9 +63,8 @@
 
 ## Projects
 
-## Problem Solving
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soverluv)](https://solved.ac/soverluv)
+## Qualifications
+- **SQLD**
 
 ## ECT
 <img src="https://github-readme-stats.vercel.app/api?username=h-ye-ryoung&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ye-ryoung&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="170"/>
