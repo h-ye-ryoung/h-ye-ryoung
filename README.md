@@ -42,8 +42,7 @@
 
 ## Experience
 - 페이스 요가 멘토링 서비스 ‘AEIO’
-  이 서비스는 Apple App Store에서 다운받을 수 있습니다. (ios 전용) [출시일 25.12.08] 
-  https://apps.apple.com/kr/app/aeio/id6751013581
+  이 서비스는 Apple App Store 및 Googel Play Store에서 다운받을 수 있습니다. (ios 전용) [출시일 25.12.08] 
 - AI 그룹 상담 서비스 ‘Blurr’
 - 대화형 인터랙티브 카메라 서비스 ‘단무지'
 - 회의록 녹음 및 요약 디스코드봇 ‘Riv’
@@ -53,6 +52,7 @@
 ## Qualifications
 - **SQLD**
 - **정보처리기사**
+- **TOEIC Speaking IH** (Speaking Score 140)
 
 ## Awards
 - 2022.09.05 숭실대학교 소프트웨어 공모전 은상
