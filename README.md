@@ -1,44 +1,11 @@
 ## About Me
-사용자 요구를 이해하고 해결책을 제시하기 위해 노력하는 백엔드 개발자입니다.
+사용자 요구를 이해하고 해결책을 제시하기 위해 노력합니다.
 
 ## Profile
 - Name: 김혜령  
 - Major: 숭실대학교 글로벌미디어학부  
 - Location: Seoul, Korea
 - Email: pot46@naver.com
-
-## Skills
-
-#### Backend (Spring & Java)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
-![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-![OpenAPI/Swagger](https://img.shields.io/badge/OpenAPI%2FSwagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
-
-#### Databases & Messaging
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-#### Cloud
-![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
-![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat&logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
-
-#### DevOps & Observability
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-#### Common Tools
-![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-181717?style=flat&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## Experience
 - 페이스 요가 멘토링 서비스 ‘AEIO’
